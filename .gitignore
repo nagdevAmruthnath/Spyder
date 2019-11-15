@@ -1,3 +1,7 @@
+# book shipped source code
+mastering-python
+clean-python
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]

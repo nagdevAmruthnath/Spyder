@@ -2,7 +2,12 @@
 
 explore Python with Spyder IDE
 
+# Usage
 
+```bash
+git clone --depth 1 https://github.com/mastering-python/code mastering-python
+git clone --depth 1 https://github.com/Apress/clean-python
+```
 
 
 
