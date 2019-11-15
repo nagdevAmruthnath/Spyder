@@ -1,14 +1,8 @@
 # Overview
 
-empty code repository
+explore Python with Spyder IDE
 
 
-
-# How to use
-
-1. create repo on GitHub using me as template, clone to local
-1. replace description in `readme.md`
-1. delete this section
 
 
 
